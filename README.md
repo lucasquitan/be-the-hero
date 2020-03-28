@@ -21,6 +21,7 @@
     src="frontend/src/assets/heroes.png">
 </p>
 
+
 ## 🚀 Tecnologias  
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:  
@@ -35,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O "Be the Hero" é uma proposta para que ONGs possam listar suas necessidades diárias para que pessoas possam contribuir de acordo sua escolha sentimental ou econômica.
 
-Este projeto foi desenvolvido na Semana Omnistack 11.0 da Rocktseat e alterado por mim.
+Este projeto foi desenvolvido durante a "Semana Omnistack 11.0" da [Rocktseat](https://rocketseat.com.br/) contendo algumas modificações.
 
 
 ## ⚡ Utilização
@@ -46,6 +47,6 @@ Para utilizar o App no seu smartphone, você irá precisar instalar o **Expo** (
 
 - Faça o download ou clone este repositório.
 - Instale as dependências em cada uma das pastas principais (<a href="./backend">backend</a>, <a href="./frontend">frontend</a> e <a href="./mobile">mobile</a>).
-- Execute as **migrations** com o comando ```$ knex migrate:make migration_name```  
+- Execute as **migrations** com o comando ```$ knex migrate:latest```  
 - Inicie o servidor do **backend** (```npm start``` ou ```yarn start```)
 - Inicie os servidores **frontend** e **mobile** (```yarn start```)
