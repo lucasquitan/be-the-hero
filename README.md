@@ -47,6 +47,6 @@ Para utilizar o App no seu smartphone, você irá precisar instalar o **Expo** (
 
 - Faça o download ou clone este repositório.
 - Instale as dependências em cada uma das pastas principais (<a href="./backend">backend</a>, <a href="./frontend">frontend</a> e <a href="./mobile">mobile</a>).
-- Execute as **migrations** com o comando ```$ knex migrate:latest```  
+- Execute as **migrations** (```knex migrate:latest```)  
 - Inicie o servidor do **backend** (```npm start``` ou ```yarn start```)
 - Inicie os servidores **frontend** e **mobile** (```yarn start```)
